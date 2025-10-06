@@ -5,14 +5,10 @@
   # Formação Full Stack PHP Developer  
   **Formação completa para desenvolvimento web com PHP e tecnologias modernas**  
 
-  ---
-
-  <!-- 🛠 Tecnologias principais -->
-  [![PHP Version](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/javascript)
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/html)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/css)
-
+  [![Stars](https://img.shields.io/github/stars/carlos0ff/fsphp?style=for-the-badge&label=STARS&color=yellow&logo=github)](https://github.com/carlos0ff/fsphp/stargazers)
+  [![Forks](https://img.shields.io/github/forks/carlos0ff/fsphp?style=for-the-badge&label=FORKS&color=blue&logo=github)](https://github.com/carlos0ff/fsphp/network/members)
+  [![Issues](https://img.shields.io/github/issues/carlos0ff/fsphp?style=for-the-badge&label=ISSUES&color=green&logo=github)](https://github.com/carlos0ff/fsphp/issues)
+  [![License](https://img.shields.io/github/license/carlos0ff/fsphp?style=for-the-badge&label=LICENSE&color=lightgrey&logo=opensourceinitiative)](./LICENSE)
+  [![Language](https://img.shields.io/github/languages/top/carlos0ff/fsphp?style=for-the-badge&label=PHP&logo=php)](https://github.com/carlos0ff/fsphp)
 
 </div>
