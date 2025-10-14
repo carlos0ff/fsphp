@@ -29,8 +29,8 @@ ini_set('xdebug.overload_var_dump', 1);
  * [ interface ] Style, icon and logo
  */
 echo "<link rel='stylesheet' href='../../app/console.css'/>",
-     "<link rel='icon' href='https://via.placeholder.com/16'/>",
-     "<img class='logo-app' src='https://via.placeholder.com/150'/>";
+"<link rel='icon' href='https://www.upinside.com.br/uploads/fsphpicon.png'/>",
+"<img class='logofsphp' src='https://www.upinside.com.br/uploads/fsphp.png'/>";
 
 /**
  * [ Title Function ] Cria o título do arquivo para o browser

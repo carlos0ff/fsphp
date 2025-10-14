@@ -21,7 +21,7 @@ echo "<p>{$hello} {$world}!</p>";
 /**
  * [ print ] https://php.net/manual/pt_BR/function.print.php
  */
-debugSession("print", __LINE__);
+debugSession("print", __LINE__,);
 
 
 
@@ -48,5 +48,8 @@ debugSession("vprintf", __LINE__);
  */
 debugSession("var_dump", __LINE__);
 
-var_dump($_SERVER, "Server information");
+var_dump([$_SERVER, "Server information"]);
+
+echo "<br />";
+
 dump($_SERVER, "Server information");
